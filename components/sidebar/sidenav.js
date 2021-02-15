@@ -47,8 +47,8 @@ const Sidenav = ({ onClick, show, visit }) => {
               height={125}
               src={
                 theme.theme == "dark"
-                  ? "/animexlogodark.svg"
-                  : "/animexlogolight.svg"
+                  ? "https://scontent.fceb2-2.fna.fbcdn.net/v/t1.15752-9/s2048x2048/147191820_536729003899725_3396636229237127573_n.jpg?_nc_cat=107&ccb=3&_nc_sid=ae9488&_nc_eui2=AeEXf3vfJdb2ItdhnvRRnbMBE-Se6QbVQ5cT5J7pBtVDl2qhMxJo3tbfU__OjhYE1-yR_NToKsVmPYm3gYYWKtS0&_nc_ohc=RjID2XXywxwAX8A_Oh_&_nc_ht=scontent.fceb2-2.fna&tp=7&oh=f12e6665487efcf4937b028f5d2410b4&oe=604E9CFB"
+                  : "https://scontent.fceb2-2.fna.fbcdn.net/v/t1.15752-9/s2048x2048/147191820_536729003899725_3396636229237127573_n.jpg?_nc_cat=107&ccb=3&_nc_sid=ae9488&_nc_eui2=AeEXf3vfJdb2ItdhnvRRnbMBE-Se6QbVQ5cT5J7pBtVDl2qhMxJo3tbfU__OjhYE1-yR_NToKsVmPYm3gYYWKtS0&_nc_ohc=RjID2XXywxwAX8A_Oh_&_nc_ht=scontent.fceb2-2.fna&tp=7&oh=f12e6665487efcf4937b028f5d2410b4&oe=604E9CFB"
               }
             />
           </div>
